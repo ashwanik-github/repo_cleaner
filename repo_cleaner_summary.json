@@ -1,0 +1,21 @@
+{
+    "docs": {
+        "total_branches": 1,
+        "deleted_branches": []
+    },
+    "gh-ost": {
+        "total_branches": 1,
+        "deleted_branches": []
+    },
+    "dmca": {
+        "total_branches": 1,
+        "deleted_branches": []
+    },
+    "DPG-guidance": {
+        "total_branches": 1,
+        "deleted_branches": [
+            "main"
+        ],
+        "recommend_delete_repo": true
+    }
+}
